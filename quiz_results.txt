@@ -1,0 +1,14 @@
+Student Name: gaytri
+Total Questions: 10
+Correct Answers: 2
+Wrong Answers: 8
+Percentage: 20.00%
+Result: FAIL
+-----------------------------------
+Student Name: gaytri
+Total Questions: 10
+Correct Answers: 1
+Wrong Answers: 9
+Percentage: 10.00%
+Result: FAIL
+-----------------------------------
